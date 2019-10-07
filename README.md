@@ -159,6 +159,8 @@ Nethunter和hacker啊！！！![Fack YOU](https://img.shields.io/badge/Fack%20YO
 **2、![Warning](https://img.shields.io/badge/Warning-red.svg)如果无法在adb shell 或者安卓shell里面不能正常执行 bootkali 请重新刷入拓展增量包模块。**
 
 **3、![Warning](https://img.shields.io/badge/Warning-red.svg)如果使用Linux Deploy APP 安装的Kali，如果MSF无法启动postgesql请参考以下代码，mysql同理。**
+<details>
+<summary><mark><font color=blue>展开</font></mark></summary>
 
 ```
 nano /usr/sbin/update-rc.d
@@ -174,10 +176,14 @@ service postgresql start
 exit
 bootkali
 ```
+</details>
+
 **4、![Warning](https://img.shields.io/badge/Warning-red.svg)如果WIFITE和fluxion不能正常使用[请点击我](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/Images/#airmon-ng%E6%97%A0%E7%BA%BF%E6%B3%A8%E5%85%A5%E6%94%AF%E6%8C%81)![Click](https://img.shields.io/badge/Click-blue.svg)**
 
 
 **5、![Warning](https://img.shields.io/badge/Warning-red.svg)如果无法使用新的DroidduckyHID攻击app。请在安卓终端shell(root权限下面)执行以下任意命令:**
+<details>
+<summary><mark><font color=blue>展开</font></mark></summary>
 
 ```
 setprop sys.usb.config win,hid
@@ -210,6 +216,8 @@ setprop sys.usb.config mac,ecm,mass_storage
 setprop sys.usb.config mac,ecm,hid,adb,mass_storage
 
 ```
+</details>
+
 # 设备购买推荐
 
 ![Click](https://img.shields.io/badge/Click-blue.svg)**[点击我查看设备购买推荐](Equipment-purchase-recommendation/)**
@@ -286,6 +294,7 @@ https://github.com/cyxx/extract_android_ota_payload ![Update](https://img.shield
 
 **如果我不小心漏了谁请联系我...因为我的记性不是很好。再次十分感谢各位做出的贡献**
 </details>
+
 ***
 
 # 联系方式
