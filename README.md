@@ -115,6 +115,7 @@
 # 部分功能测试截图和视频
 
 * **![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看部分功能测试截图和视频](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/Images/)**
+
 **![Warning](https://img.shields.io/badge/Warning-red.svg)部分视频需要翻墙才能看**
 
 ***
