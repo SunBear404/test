@@ -25,16 +25,16 @@
  * ![Click](https://img.shields.io/badge/Click-blue.svg)[常见问题解决](#常见问题解决) 
  * ![Click](https://img.shields.io/badge/Click-blue.svg)[设备购买推荐](#设备购买推荐) 
  * ![Click](https://img.shields.io/badge/Click-blue.svg)[相关代码和致谢列表](#相关代码和致谢列表) 
- * ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式）
+ * ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式)
 
 
 ***
-# 免责声明
+> # 免责声明
 ![Warning](https://img.shields.io/badge/Warning-red.svg)**!!!警告你需要认真仔细的阅读说明我不会对你造成的宕机负责也不要来问我，本教程已经十分详细，如果你还是不会刷入我建议你放弃因为这需要一定的相关知识!!!**
 
 ![Warning](https://img.shields.io/badge/Warning-red.svg)**!!!本内核只用于学习和研究的目的，请勿用于非法研究，否则后果自行承担!!!**
 ***
-# 介绍
+> # 介绍
 #### 大家好我是来自中国的业余玩家ID：DJY 喜欢唱，跳，Rap，打篮球！！!(就是一个打酱油的菜鸟的意思....)
 
 ![XJ](Images/XJ.gif)
