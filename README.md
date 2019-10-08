@@ -25,7 +25,7 @@
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[常见问题解决](#常见问题解决)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[设备购买推荐](#设备购买推荐)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[相关代码和致谢列表](#相关代码和致谢列表)
-* ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式)
+> * ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式)
 
 ***
 # 免责声明
