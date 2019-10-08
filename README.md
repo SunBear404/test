@@ -41,7 +41,7 @@
 ![XJ2](Images/XJ2.gif)
 
 
-* 这是一个支持Kali **Nethunter**和**Andrax**的全功能内核。适用于**oneplus6**和**oneplus6T**。基本和一台可便携移动小型Linux差不多，包含了大多数的主流的功能和特性：
+* 这是一个支持`**Kali Nethunter**和**Andrax**`的全功能内核。适用于`**oneplus6**和**oneplus6T**`。基本和一台可便携移动小型`Linux`差不多，包含了大多数的主流的功能和特性：
 
 * **当前版本DJY-Kernel-V86**![Update](https://img.shields.io/badge/2019.10.8-Update-succecs.svg)
 * **aarch64-gcc-10编译 ![Update](https://img.shields.io/badge/2019.6.09-Update-succecs.svg)**？？
@@ -113,7 +113,7 @@
 
 # 部分功能测试截图和视频
 
-* **![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看部分功能测试截图和视频](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/Images/)部分视频需要翻墙才能看![Warning](https://img.shields.io/badge/Warning-red.svg)**
+* **![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看部分功能测试截图和视频](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/Images/)     部分视频需要翻墙才能看![Warning](https://img.shields.io/badge/Warning-red.svg)**
 
 
 
@@ -121,8 +121,7 @@
 
 # 目前已知BUG和没有的功能
 
-所有目前已知问题已经全部修复
-
+**所有目前已知问题已经全部修复**
 
 ***
 # 安装教程
@@ -131,7 +130,7 @@
 
 **转到系统设置>>>关于手机>>>连续点击7次手机版本号>>>在回到系统设置>>>点击开启usb调试模式>>>然后执行bootloader-unlock.sh/bat(Linux bash bootloader-unlock.sh Window 双击bootloader-unlock.bat)>>>选择YES**
 
-* **2、![Warning](https://img.shields.io/badge/Warning-red.svg)!!!在安装之前你需要安装相关环境的和准备一些工具脚本.我已经为你们打包好大部分工具，请认真查看此文档!!!
+* **2、![Warning](https://img.shields.io/badge/Warning-red.svg)!!!在安装之前你需要安装相关环境的和准备一些工具脚本.我已经为你们打包好大部分工具，请认真查看此文档!!!**
 
 **![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看安装教程/Click I to view the installation tutorial](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/tools/)**
 
