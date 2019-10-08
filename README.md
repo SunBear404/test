@@ -41,7 +41,8 @@
 ![XJ2](Images/XJ2.gif)
 
 
-* 这是一个支持`**Kali Nethunter**和**Andrax**`的全功能内核。适用于`**oneplus6**和**oneplus6T**`。基本和一台可便携移动小型`Linux`差不多，包含了大多数的主流的功能和特性：
+### 这是一个支持`Kali Nethunter`和`Andrax`的全功能内核。适用于`OnePlus 6`和`OnePlus 6T`。基本和一台可便携移动小型`Linux`差不多，包含了大多数的主流的功能和特性： 
+
 
 * **当前版本DJY-Kernel-V86**![Update](https://img.shields.io/badge/2019.10.8-Update-succecs.svg)
 * **aarch64-gcc-10编译 ![Update](https://img.shields.io/badge/2019.6.09-Update-succecs.svg)**？？
