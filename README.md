@@ -108,7 +108,7 @@
 
 ~~* **添加rtl8188eu.ko模块和一些杂七杂八的ko模块** ![Update](https://img.shields.io/badge/2019.6.12-Update-succecs.svg)~~
 
-* 新版内核添加了对Android 10和LineageOS、Havoc OS等自定义系统的支持。
+* **新版内核添加了对Android 10和LineageOS、Havoc OS等自定义系统的支持。**
 
 ***
 
