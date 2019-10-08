@@ -133,7 +133,7 @@
 
 * **2、![Warning](https://img.shields.io/badge/Warning-red.svg)!!!在安装之前你需要安装相关环境的和准备一些工具脚本.我已经为你们打包好大部分工具，请认真查看此文档!!!
 
- **![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看安装教程/Click I to view the installation tutorial](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/tools/)**
+**![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看安装教程/Click I to view the installation tutorial](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/tools/)**
 
 * **3、如果你还是不会点击以下查看视频安装教程**
 
