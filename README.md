@@ -91,7 +91,7 @@
 * 各种转接线例如：PL2303，CP210X，CH340..等转接线支持
 * 各种转接头支持： SMA，HDMI，TNC..等接头支持 **![Warning](https://img.shields.io/badge/Warning-red.svg)(部分接头需要手工焊接转换,HDMI转换需要使用displaylink 芯片的视频适配器，推荐购买DA100)[DA100](https://github.com/johanlike/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/blob/master/Equipment-purchase-recommendation/README.md/#DA100)![Click](https://img.shields.io/badge/Click-blue.svg)**
 * 自定义开机动画支持
-* 内核刷机包自动安装Magisk功能（暂时不完美待修复）
+* 内核刷机包自动安装Magisk功能
 </details>
 
 * **其他功能和设备支持待发掘反馈.........**
@@ -103,12 +103,12 @@
 
 
 
-* **优化改进anykernel2刷机包，以方便部分菜鸟玩家更好的刷入此内核。另外向无线拓展包添加一些ko文件到/system/以方便某些玩家挂载。并且更新添加部分app** ![Update](https://img.shields.io/badge/2019.6.15-Update-succecs.svg)
+~~* **优化改进anykernel2刷机包，以方便部分菜鸟玩家更好的刷入此内核。另外向无线拓展包添加一些ko文件到/system/以方便某些玩家挂载。并且更新添加部分app** ![Update](https://img.shields.io/badge/2019.6.15-Update-succecs.svg)~~
 
 
-* **添加rtl8188eu.ko模块和一些杂七杂八的ko模块** ![Update](https://img.shields.io/badge/2019.6.12-Update-succecs.svg)
+~~* **添加rtl8188eu.ko模块和一些杂七杂八的ko模块** ![Update](https://img.shields.io/badge/2019.6.12-Update-succecs.svg)~~
 
-
+* 新版内核添加了对Android 10和LineageOS、Havoc OS等自定义系统的支持。
 
 ***
 
