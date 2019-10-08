@@ -15,17 +15,28 @@
 
 # 目录
 
-> ![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/) 
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[**点击我查看HTML版本介绍**](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[免责声明](#免责声明) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[介绍](#介绍) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[最近更新日志](#最近更新日志) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[目前已知BUG和没有的功能](#目前已知BUG和没有的功能) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[安装教程](#安装教程) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[部分功能测试截图和视频](#部分功能测试截图和视频) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[常见问题解决](#常见问题解决) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[设备购买推荐](#设备购买推荐) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[相关代码和致谢列表](#相关代码和致谢列表) 
+
 > ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式) 
+
 
 ***
 # 免责声明
