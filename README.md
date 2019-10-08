@@ -16,8 +16,8 @@
 # 目录
 
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/)
-* ![Click](https://img.shields.io/badge/Click-blue.svg)[介绍](#介绍)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[免责声明](#免责声明)
+* ![Click](https://img.shields.io/badge/Click-blue.svg)[介绍](#介绍)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[最近更新日志](#最近更新日志)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[目前已知BUG和没有的功能](#目前已知BUG和没有的功能)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[安装教程](#安装教程)
@@ -49,7 +49,6 @@
 * **合并上游Linux代码以确保代码为最新![Update](https://img.shields.io/badge/2019.6.12%20V4.9.181-Update-succecs.svg)**
 * **并将Linux官网的主流无线固件编译进内核当中以确保airmon-ng正常注入(rt2561.bin  mt7601u.bin  rt3290.bin  rt3071.bin  rt73.bin  rtlwifi/rtl8192eefw.bin  rtlwifi/rtl8821aefw_wowlan.bin  rtlwifi/rtl8188eufw.bin rtlwifi/rtl8188efw.bin rtlwifi/rtl8192cfwU.bin  rtlwifi/rtl8192cfwU_B.bin  rtlwifi/rtl8192cufw_TMSC.bin  rtlwifi/rtl8192cufw_A.bin  rtlwifi/rtl8192cufw.bin  rtlwifi/rtl8821aefw.bin  rtlwifi/rtl8192sefw.bin  rtlwifi/rtl8192cfw.bin  rtlwifi/rtl8192eu_nic.bin  rtlwifi/rtl8192defw.bin  rtlwifi/rtl8192cufw_B.bin  rt2561s.bin  rt2661.bin  rt3070.bin  rt2870.bin  rt2860.bin  carl9170-1.fw  ath9k_htc/htc_9271-1.4.0.fw  ath9k_htc/htc_7010-1.4.0.fw  ar7010.fw  ar7010_1_1.fw  htc_9271.fw)**
 
-***
 <details>
 <summary><mark><font color=blue>点击查看详细支持 </font></mark></summary>
 
@@ -92,8 +91,6 @@
 * 自定义开机动画支持
 * 内核刷机包自动安装Magisk功能（暂时不完美待修复）
 </details>
-
-***
 
 * **其他功能和设备支持待发掘反馈.........**
 
