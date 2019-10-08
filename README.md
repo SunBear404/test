@@ -15,7 +15,7 @@
 
 # 目录
 
-* ![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/)
+> * ![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[免责声明](#免责声明)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[介绍](#介绍)
 * ![Click](https://img.shields.io/badge/Click-blue.svg)[最近更新日志](#最近更新日志)
