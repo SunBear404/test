@@ -149,7 +149,7 @@
 **5、如果你真的还是不会刷入和使用那么请看以下说明**
 
 **![Fack YOU](https://img.shields.io/badge/Fack%20YOU-yellow.svg)[你他妈猪啊你，老子说明写那么详细，你TM都不会，其实就是正常的刷内核方式就TM两步老子给你写了三四个文档，百度谷歌总会吧？？？不会你TM玩蛋去吧你，来玩毛
-Nethunter和hacker啊！！！](https://www.baidu.com/)![Fack YOU](https://img.shields.io/badge/Fack%20YOU-yellow.svg)**
+Nethunter和hacker啊！！！](https://www.baidu.com/) **
 
 # 常见问题解决
 
