@@ -34,14 +34,14 @@
 ![Warning](https://img.shields.io/badge/Warning-red.svg)**!!!本内核只用于学习和研究的目的，请勿用于非法研究，否则后果自行承担!!!**
 ***
 # 介绍
-* **大家好我是来自中国的业余玩家ID：DJY 喜欢唱，跳，Rap，打篮球！！!(就是一个打酱油的菜鸟的意思....)**
+#### 大家好我是来自中国的业余玩家ID：DJY 喜欢唱，跳，Rap，打篮球！！!(就是一个打酱油的菜鸟的意思....)
 
 ![XJ](Images/XJ.gif)
 ![CXK](Images/CXK.gif)
 ![XJ2](Images/XJ2.gif)
 
 
-### 这是一个支持`Kali Nethunter`和`Andrax`的全功能内核。适用于`OnePlus 6`和`OnePlus 6T`。基本和一台可便携移动小型`Linux`差不多，包含了大多数的主流的功能和特性： 
+#### 这是一个支持`Kali Nethunter`和`Andrax`的全功能内核。适用于`OnePlus 6`和`OnePlus 6T`。基本和一台可便携移动小型`Linux`差不多，包含了大多数的主流的功能和特性： 
 
 
 * **当前版本DJY-Kernel-V86**![Update](https://img.shields.io/badge/2019.10.8-Update-succecs.svg)
@@ -51,7 +51,7 @@
 * **并将Linux官网的主流无线固件编译进内核当中以确保airmon-ng正常注入(rt2561.bin  mt7601u.bin  rt3290.bin  rt3071.bin  rt73.bin  rtlwifi/rtl8192eefw.bin  rtlwifi/rtl8821aefw_wowlan.bin  rtlwifi/rtl8188eufw.bin rtlwifi/rtl8188efw.bin rtlwifi/rtl8192cfwU.bin  rtlwifi/rtl8192cfwU_B.bin  rtlwifi/rtl8192cufw_TMSC.bin  rtlwifi/rtl8192cufw_A.bin  rtlwifi/rtl8192cufw.bin  rtlwifi/rtl8821aefw.bin  rtlwifi/rtl8192sefw.bin  rtlwifi/rtl8192cfw.bin  rtlwifi/rtl8192eu_nic.bin  rtlwifi/rtl8192defw.bin  rtlwifi/rtl8192cufw_B.bin  rt2561s.bin  rt2661.bin  rt3070.bin  rt2870.bin  rt2860.bin  carl9170-1.fw  ath9k_htc/htc_9271-1.4.0.fw  ath9k_htc/htc_7010-1.4.0.fw  ar7010.fw  ar7010_1_1.fw  htc_9271.fw)**
 
 <details>
-<summary><mark><font color=blue>点击查看详细支持 </font></mark></summary>
+<summary><mark><font color=red>点击查看详细支持 </font></mark></summary>
 
 * **Elementalx 内核特性支持**
 * **Selinux 永久设为Permissive状态**
