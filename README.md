@@ -15,17 +15,17 @@
 
 # 目录
 
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[免责声明](#免责声明)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[介绍](#介绍)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[最近更新日志](#最近更新日志)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[目前已知BUG和没有的功能](#目前已知BUG和没有的功能)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[安装教程](#安装教程)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[部分功能测试截图和视频](#部分功能测试截图和视频)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[常见问题解决](#常见问题解决)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[设备购买推荐](#设备购买推荐)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[相关代码和致谢列表](#相关代码和致谢列表)
-> * ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看HTML版本介绍](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[免责声明](#免责声明)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[介绍](#介绍)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[最近更新日志](#最近更新日志)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[目前已知BUG和没有的功能](#目前已知BUG和没有的功能)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[安装教程](#安装教程)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[部分功能测试截图和视频](#部分功能测试截图和视频)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[常见问题解决](#常见问题解决)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[设备购买推荐](#设备购买推荐)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[相关代码和致谢列表](#相关代码和致谢列表)
+> ![Click](https://img.shields.io/badge/Click-blue.svg)[联系方式](#联系方式)
 
 ***
 # 免责声明
@@ -127,25 +127,25 @@
 ***
 # 安装教程
 
-* **1、![Warning](https://img.shields.io/badge/Warning-red.svg)对于没有解锁bootloader设备的手机，你需要进行以下操作才能正常刷入twrp**
+**1、![Warning](https://img.shields.io/badge/Warning-red.svg)对于没有解锁bootloader设备的手机，你需要进行以下操作才能正常刷入twrp**
 
 **转到系统设置>>>关于手机>>>连续点击7次手机版本号>>>在回到系统设置>>>点击开启usb调试模式>>>然后执行bootloader-unlock.sh/bat(Linux bash bootloader-unlock.sh Window 双击bootloader-unlock.bat)>>>选择YES**
 
-* **2、![Warning](https://img.shields.io/badge/Warning-red.svg)!!!在安装之前你需要安装相关环境的和准备一些工具脚本.我已经为你们打包好大部分工具，请认真查看此文档!!!**
+**2、![Warning](https://img.shields.io/badge/Warning-red.svg)!!!在安装之前你需要安装相关环境的和准备一些工具脚本.我已经为你们打包好大部分工具，请认真查看此文档!!!**
 
 **![Click](https://img.shields.io/badge/Click-blue.svg)[点击我查看安装教程/Click I to view the installation tutorial](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/tools/)**
 
-* **3、如果你还是不会点击以下查看视频安装教程**
+**3、如果你还是不会点击以下查看视频安装教程**
 
 
  **![Click](https://img.shields.io/badge/Click-blue.svg)[单击我以查看视频安装教程/Click I to view the video installation tutorial](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/Images/#%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)**
 
-* **4、关于Kali Choot 安装方式我个人推荐使用Linux Deploy APP来安装Kali。因为他安装的永远都是最新的。当然你也可以安装Nethunter官方的kalifs-xx.xz包**
+**4、关于Kali Choot 安装方式我个人推荐使用Linux Deploy APP来安装Kali。因为他安装的永远都是最新的。当然你也可以安装Nethunter官方的kalifs-xx.xz包**
 
 **![Click](https://img.shields.io/badge/Click-blue.svg)[Kali Chroot Install](https://johanlike.github.io/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel/tools/#kali-chroot-install)**
 
 
-* **5、如果你真的还是不会刷入和使用那么请看以下说明**
+**5、如果你真的还是不会刷入和使用那么请看以下说明**
 
 **![Fack YOU](https://img.shields.io/badge/Fack%20YOU-yellow.svg)[你他妈猪啊你，老子说明写那么详细，你TM都不会，其实就是正常的刷内核方式就TM两步老子给你写了三四个文档，百度谷歌总会吧？？？不会你TM玩蛋去吧你，来玩毛
 Nethunter和hacker啊！！！](https://www.baidu.com/)![Fack YOU](https://img.shields.io/badge/Fack%20YOU-yellow.svg)**
