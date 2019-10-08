@@ -158,7 +158,7 @@ Nethunter和hacker啊！！！](https://www.baidu.com/)![Fack YOU](https://img.s
 
 **3、![Warning](https://img.shields.io/badge/Warning-red.svg)如果使用Linux Deploy APP 安装的Kali，如果MSF无法启动postgesql请参考以下代码，mysql同理。**
 <details>
-<summary><mark><font color=blue>  展开</font></mark></summary>
+<summary><mark><font color=blue>   展开</font></mark></summary>
 
 ```
 nano /usr/sbin/update-rc.d
@@ -181,7 +181,7 @@ bootkali
 
 **5、![Warning](https://img.shields.io/badge/Warning-red.svg)如果无法使用新的DroidduckyHID攻击app。请在安卓终端shell(root权限下面)执行以下任意命令:**
 <details>
-<summary><mark><font color=blue>展开</font></mark></summary>
+<summary><mark><font color=blue>   展开</font></mark></summary>
 
 ```
 setprop sys.usb.config win,hid
